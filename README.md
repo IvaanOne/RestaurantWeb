@@ -18,7 +18,7 @@ Home
 <img src="/img/home.jpg" alt="muestra"/>
 
 Carta
-<img src="/img/home.jpg" alt="carta"/>
+<img src="/img/carta.jpg" alt="carta"/>
 Contacto
 <img src="/img/contacto.jpg" alt="consola" alt="contacto"/>
 ---
