@@ -9,16 +9,18 @@ Web básica de un restaurante con secciones home, carta y contacto.
 ---
 Hecha con HTML y bootstrap casi en su totalidad, algo de css.
 
-<!-- ## Vista previa
+## Vista previa
 
 ---
+
 Home
+
 <img src="/img/home.jpg" alt="muestra"/>
 
 Carta
 <img src="/img/home.jpg" alt="carta"/>
 Contacto
-<img src="/img/contacto.jpg" alt="consola" alt="contacto"/> -->
+<img src="/img/contacto.jpg" alt="consola" alt="contacto"/>
 ---
 ## Información adicional.
 ---
