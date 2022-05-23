@@ -1,0 +1,19 @@
+
+
+.carouselImage {
+    object-fit: cover;
+    height: 560px;
+}
+
+.carousel-caption{
+
+    bottom: 13.25rem;
+    font-family: "Comic Sans MS";
+
+}
+
+.logo {
+    height: 10rem;
+    object-fit: contain;
+
+}
