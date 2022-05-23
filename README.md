@@ -25,8 +25,11 @@ Hecha con HTML y bootstrap casi en su totalidad, algo de css.
 
 <img src="/img/contacto.jpg" alt="consola" alt="contacto"/>
 ---
+
 ## Información adicional.
+
 ---
+
 El nombre fictio del restaurante es pimpampunk.
 La página está desplegada en git hub pages esta URL:
 https://ivaanone.github.io/RestaurantWeb/
