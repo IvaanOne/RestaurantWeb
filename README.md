@@ -13,13 +13,16 @@ Hecha con HTML y bootstrap casi en su totalidad, algo de css.
 
 ---
 
-Home
+### Home
 
 <img src="/img/home.jpg" alt="muestra"/>
 
-Carta
+### Carta
+
 <img src="/img/carta.jpg" alt="carta"/>
-Contacto
+
+### Contacto
+
 <img src="/img/contacto.jpg" alt="consola" alt="contacto"/>
 ---
 ## Información adicional.
